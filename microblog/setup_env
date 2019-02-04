@@ -1,0 +1,9 @@
+ 2002  python3 -m venv venv
+ 2003  ls
+ 2004  ls venv/
+ 2005  virtualenv venv
+ 2006  sudo apt-get install virtualenv
+ 2007  virtualenv venv
+ 2008  source venv/bin/activate
+ 2009  pip install flask
+
